@@ -42,26 +42,16 @@ Atualmente, estou no terceiro período do curso de Análise e Desenvolvimento de
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 💻 Meu GitHub
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vanisouza159-hash&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanisouza159-hash&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
-  />
-
+    <a href="https://github.com/vanisouza159-hash">
+        <img 
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/vanisouza159-hash?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
+        />
+    </a>
 </p>
 
----
-
-💻 [Meu GitHub](https://github.com/vanisouza159-hash)
+✅ O que mudou:
