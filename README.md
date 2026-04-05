@@ -58,6 +58,7 @@ Atualmente, estou no terceiro período do curso de Análise e Desenvolvimento de
 
 
 Generates a snake game from a github user contributions graph
+github_user_name: vanisouza159-hash
 
 <picture>
   <source
