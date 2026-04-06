@@ -55,6 +55,23 @@ Atualmente, estou no terceiro período do curso de Análise e Desenvolvimento de
 </p>
 
 ✅ O que mudou:
+ name: Generate Snake
 
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vanisouza159-hash
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
