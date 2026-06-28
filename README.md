@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Vanessa Cristina de Souza
 
-🎓 Estudante de Ciência da Computação
+🎓 Estudante de ADS
 
 💻 Apaixonada por tecnologia e desenvolvimento web.
 
