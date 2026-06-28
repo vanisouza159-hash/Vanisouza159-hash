@@ -1,41 +1,36 @@
-# Olá! Eu sou a Vanessa Cristina de Souza 👋
+# 👋 Olá! Eu sou a Vanessa Cristina de Souza
 
-🎓 Estudante de Ciência da Computação.
+🎓 Estudante de Ciência da Computação
 
-💻 Apaixonada por tecnologia e programação. Atualmente estou aprendendo desenvolvimento web e buscando aprimorar meus conhecimentos por meio de projetos acadêmicos e pessoais.
-
-## 🚀 Tecnologias que estou estudando
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-</div>
+💻 Apaixonada por tecnologia e desenvolvimento web.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Tecnologias
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,git,github,vscode"/>
+</p>
 
 ---
 
-## 📚 Atualmente
+## 📊 Estatísticas
 
-* 🎓 Estudando Ciência da Computação.
-* 🌱 Aprendendo HTML, CSS, JavaScript, TypeScript e PHP.
-* 💼 Desenvolvendo projetos para aprimorar minhas habilidades.
-* 🚀 Sempre em busca de novos conhecimentos.
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
