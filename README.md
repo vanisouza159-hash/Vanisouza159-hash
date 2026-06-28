@@ -32,6 +32,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
 </picture>
 
+![snake gif](https://github.com/vanessa/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ⭐ Obrigada por visitar meu perfil!
